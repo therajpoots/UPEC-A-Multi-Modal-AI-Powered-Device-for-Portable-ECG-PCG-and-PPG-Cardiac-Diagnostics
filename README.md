@@ -38,6 +38,7 @@ Main application script to control the UPEC device, handle sensor data acquisiti
   - PTB-XL (ECG)
   - CIRCOR DIGISCOPE (PCG)
   - MIMIC (PPG)
+**You would need to write code for the ESP32 (or any other microcontroller being used) to interface with the sensors and stream live data with no delay, using end-to-end encryption with WPA3-Enterprise and 192-bit security.**
 
 **Preprocessing:**
 - Bandpass filter (20–400 Hz) for PCG noise reduction using `scipy.signal`
