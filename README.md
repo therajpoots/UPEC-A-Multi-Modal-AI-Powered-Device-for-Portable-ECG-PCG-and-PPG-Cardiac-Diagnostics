@@ -1,0 +1,2 @@
+# UPEC-A-Multi-Modal-AI-Powered-Device-for-Portable-ECG-PCG-and-PPG-Cardiac-Diagnostics
+The Ultra Precision PCG ECG Classifier (UPEC) is a portable, AI-powered device integrating ECG, PCG, and PPG for real-time cardiopulmonary diagnostics. It leverages hybrid CNN-Transformer and CNN-LSTM models to detect cardiac abnormalities, offering a low-cost, scalable solution for early disease detection and telemedicine.
