@@ -177,7 +177,7 @@ Adjust workflow settings to your repo structure.
 **UPEC Non-Commercial Prototype License**
 
 ```
-Copyright (c) 2025 Rana Talha Khalid
+Copyright (c) 2025 Khair Ul Wara & Rana Talha Khalid
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to use,
